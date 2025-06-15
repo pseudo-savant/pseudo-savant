@@ -1,16 +1,10 @@
-## stacklist
-
-# current projects
-- bennymw
-# ambitions
-- learn x86 assembly
-- learn osdev
-- learn webdev
-- learn networking
-- learn arduino
-- buy a 3d printer
+## hi my name is benny
+# i want
+- to learn x86 assembly
+- to learn low level programming in general
 - **a job**
-# interests
-- bideo game hacking
+# i like
+- vigeo games
+- hacking vigeo games
 - game development
-- sound design or something
+- ????????
