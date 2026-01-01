@@ -1,7 +1,7 @@
 # To do
 - revise script
 - reinforce repo for website
-- fix joenation animation system
+- fix joenation prototype
 - ???
 # FAQ
 - Q: When god asked you between choosing to be computer illiterate or have great memory, what did you choose?
