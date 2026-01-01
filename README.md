@@ -4,7 +4,7 @@
 - fix joenation animation system
 - ???
 # FAQ
-- Q: When god asked you between choosing to be a complete fucking dingus or have great memory, what did you choose?
+- Q: When god asked you between choosing to be computer illiterate or have great memory, what did you choose?
 - A: I forgot.
 - Q: Why does none of your code work on my machine?
 - A: Dont ask
